@@ -40,6 +40,12 @@
 <br/>
 <br/> 
 
+## Repositories
+
+- [Python Neural Networks](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python)
+- [Machine Learning](https://github.com/Henrique-Gaspar/Modelos_Machine_Learning_Python)
+- [Scraping](https://github.com/Henrique-Gaspar/Scraping_Projects_Python)
+
 ## Contact
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/jos%C3%A9-henrique-g-9839b3121/)
