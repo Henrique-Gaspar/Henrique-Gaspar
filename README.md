@@ -45,6 +45,7 @@
 - [Python Neural Networks](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python)
 - [Machine Learning](https://github.com/Henrique-Gaspar/Modelos_Machine_Learning_Python)
 - [Scraping](https://github.com/Henrique-Gaspar/Scraping_Projects_Python)
+- [Natural Language Processing](https://github.com/Henrique-Gaspar/Natural_language_processing)
 
 ## Contact
 
