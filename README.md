@@ -9,6 +9,8 @@
 <br/>
 <br/>
 
+---
+
 ## Languages and tools
 
 #### Languages
@@ -36,7 +38,7 @@
 <img align="left" alt="matplotlib" width="26px" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" />
 
 <br/>
-<br/>
+<br/> 
 
 ## Contact
 
@@ -44,7 +46,7 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/henriquegaspar)
 
 <br/>
-<br/>
+<br/> 
 
 ## Stats
 
