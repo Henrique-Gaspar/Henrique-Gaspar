@@ -13,10 +13,13 @@
 
 #### Languages
 
-<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 <br/>
 <br/>
@@ -24,9 +27,13 @@
 #### Tools
 
 <img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-<img align="left" alt="keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keras.svg" />
+
+<img align="left" alt="keras" width="26px" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png" />
 <img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg" />
+
 <img align="left" alt="rstudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />
+
+<img align="left" alt="matplotlib" width="26px" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" />
 
 <br/>
 <br/>
