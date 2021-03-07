@@ -49,6 +49,11 @@
 ## Contact
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/jos%C3%A9-henrique-g-9839b3121/)
+Email: henrique-gaspar@hotmail.com
+
+<br/>
+
+## Kaggle
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/henriquegaspar)
 
 <br/>
