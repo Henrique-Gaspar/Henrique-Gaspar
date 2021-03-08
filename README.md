@@ -46,6 +46,7 @@
 - [Machine Learning](https://github.com/Henrique-Gaspar/Modelos_Machine_Learning_Python)
 - [Scraping](https://github.com/Henrique-Gaspar/Scraping_Projects_Python)
 - [Natural Language Processing](https://github.com/Henrique-Gaspar/Natural_language_processing)
+- [Clustering](https://github.com/Henrique-Gaspar/Clustering_Python/blob/main/README.md)
 
 ## Contact
 
