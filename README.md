@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on deep learning or machine learning projects.
 
-- ⚡ Fun fact: I'm economics student haha.
+- ⚡ Curious fact: I'm economics student.
 
 <br/>
 <br/>
