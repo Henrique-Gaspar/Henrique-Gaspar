@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning data analysis, web scraping and deep learning.
 
-- 👯 I’m looking to collaborate on deep learning or machine learning projects.
+- 👯 I’m looking to collaborate on deep learning, machine learning, scrapping or NLP projects.
 
 - ⚡ Curious fact: I'm economics student.
 
