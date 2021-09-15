@@ -48,9 +48,9 @@
 - [Natural Language Processing](https://github.com/Henrique-Gaspar/Natural_language_processing)
 - [Clustering](https://github.com/Henrique-Gaspar/Clustering_Python)
 - [Grafos](https://github.com/Henrique-Gaspar/Graphs-Grafos)
+- [Exploração de dados públicos](https://github.com/Henrique-Gaspar/Dados-Publicos)
 
 ## Contact
-
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/jos%C3%A9-henrique-g-9839b3121/)
 
 <br/>
