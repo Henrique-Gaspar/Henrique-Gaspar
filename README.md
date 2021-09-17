@@ -1,10 +1,10 @@
-# Hi there 👋
+# Olá 👋
 
-- 🌱 I’m currently learning data analysis, web scraping and deep learning.
+- 🌱 Atualmente estou focando meu aprendizado em análise de dados, web scraping e em ferramentas de deploy, como o Flask.
 
-- 👯 I’m looking to collaborate on deep learning, machine learning, scrapping or NLP projects.
+- 👯 Estou pronto para colaborar com projetos que envolvam mineração de dados, modelagem, dataviz, NLP, entre outras áreas.
 
-- ⚡ Curious fact: I'm economics student.
+- ⚡ Descrição pessoal: Atualmente estou cursando economia, através do qual tive contato com a minha primeira linguagem de programação, o R, onde apliquei o conteúdo das minhas aulas de econometria. Também vim a utilizar a linguagem R para projetos de pesquisa na faculdade, de modo que desenvolvi interesse pela área de dados, me aprofundando na área de ciência de dados, o que me levou a aprender novas linguagens, como o Python, Julia, além do SQL. Costumo usar em meus projetos pessoais o Jupyter Notebook ou o VScode.
 
 <br/>
 <br/>
