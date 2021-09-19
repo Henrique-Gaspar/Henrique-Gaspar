@@ -4,7 +4,7 @@
 
 - 👯 Estou pronto para colaborar com projetos que envolvam mineração de dados, modelagem, dataviz, NLP, entre outras áreas.
 
-- ⚡ Descrição pessoal: Atualmente estou cursando economia, através do qual tive contato com a minha primeira linguagem de programação, o R, onde apliquei o conteúdo das minhas aulas de econometria. Também vim a utilizar a linguagem R para projetos de pesquisa na faculdade, de modo que desenvolvi interesse pela área de dados, me aprofundando na área de ciência de dados, o que me levou a aprender novas linguagens, como o Python, Julia, além do SQL. Costumo usar em meus projetos pessoais o Jupyter Notebook ou o VScode.
+- ⚡ Descrição pessoal: Atualmente estou cursando economia, através do qual tive contato com a minha primeira linguagem de programação, o R, onde apliquei o conteúdo das minhas aulas de econometria. Também vim a utilizar a linguagem R para projetos de pesquisa na faculdade, que de modo geral estavam relacionados com análise de dados. Assim, acabei desenvolvendo interesse pela área de dados, o que me levou a me aprofundar na área de ciência de dados e a aprender novas linguagens, como o Python, Julia, além do SQL. Costumo usar em meus projetos pessoais o Jupyter Notebook através do VSCode. De modo geral utilizo arquivos .csv como fonte de dados para os meus projetos, mas também possuo alguns trabalhos que se baseiam em bancos SQlite ou Postgres.
 
 <br/>
 <br/>
