@@ -11,9 +11,9 @@
 
 ---
 
-## Languages and tools
+## Linguagens e ferramentas
 
-#### Languages
+#### Linguagens
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-#### Tools
+#### Ferramentas
 
 <img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
@@ -40,7 +40,7 @@
 <br/>
 <br/> 
 
-## Repositories
+## Meus repositórios
 
 - [Python Neural Networks](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python)
 - [Machine Learning](https://github.com/Henrique-Gaspar/Modelos_Machine_Learning_Python)
@@ -50,12 +50,12 @@
 - [Grafos](https://github.com/Henrique-Gaspar/Graphs-Grafos)
 - [Exploração de dados públicos](https://github.com/Henrique-Gaspar/Dados-Publicos)
 
-## Contact
+## Contato
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/jos%C3%A9-henrique-g-9839b3121/)
 
 <br/>
 
-## Kaggle
+## Meu perfil no Kaggle
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/henriquegaspar)
 
 <br/>
