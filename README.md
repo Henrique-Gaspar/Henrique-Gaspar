@@ -1,6 +1,6 @@
 # Olá 👋
 
-- 🌱 Atualmente estou focando meu aprendizado em análise de dados, web scraping e em ferramentas de deploy, como o Flask.
+- 🌱 Atualmente estou focando meu aprendizado em análise de dados, web scraping e em frameworks como o Flask e o Django.
 
 - 👯 Estou pronto para colaborar com projetos que envolvam mineração de dados, modelagem, dataviz, NLP, entre outras áreas.
 
